@@ -1,0 +1,1126 @@
+Date,Store,Category,Item,Brand,Unit,Price_PKR
+10/1/2025,Metro,Staples,Basmati Rice,Falak,1 kg,300
+10/1/2025,Imtiaz,Staples,Basmati Rice,Ponam,1 kg,312
+10/1/2025,Carrefour,Staples,Basmati Rice,Falak,1 kg,321
+10/1/2025,Chase Up,Staples,Basmati Rice,Falak,1 kg,324
+10/1/2025,Naheed,Staples,Basmati Rice,Falak,1 kg,336
+10/1/2025,Metro,Staples,Super Kernel Rice,Guard,1 kg,320
+10/1/2025,Imtiaz,Staples,Super Kernel Rice,Guard,1 kg,333
+10/1/2025,Carrefour,Staples,Super Kernel Rice,Guard,1 kg,342
+10/1/2025,Chase Up,Staples,Super Kernel Rice,Guard,1 kg,346
+10/1/2025,Naheed,Staples,Super Kernel Rice,Guard,1 kg,358
+10/1/2025,Metro,Staples,IRRI Rice,Loose,1 kg,240
+10/1/2025,Imtiaz,Staples,IRRI Rice,Loose,1 kg,250
+10/1/2025,Carrefour,Staples,IRRI Rice,Loose,1 kg,257
+10/1/2025,Chase Up,Staples,IRRI Rice,Loose,1 kg,259
+10/1/2025,Naheed,Staples,IRRI Rice,Loose,1 kg,269
+10/1/2025,Metro,Staples,Brown Rice,Guard,1 kg,360
+10/1/2025,Imtiaz,Staples,Brown Rice,Guard,1 kg,374
+10/1/2025,Carrefour,Staples,Brown Rice,Guard,1 kg,385
+10/1/2025,Chase Up,Staples,Brown Rice,Guard,1 kg,389
+10/1/2025,Naheed,Staples,Brown Rice,Guard,1 kg,403
+10/1/2025,Metro,Staples,Wheat Flour,Atta,10 kg,1450
+10/1/2025,Imtiaz,Staples,Wheat Flour,Atta,10 kg,1508
+10/1/2025,Carrefour,Staples,Wheat Flour,Atta,10 kg,1552
+10/1/2025,Chase Up,Staples,Wheat Flour,Atta,10 kg,1566
+10/1/2025,Naheed,Staples,Wheat Flour,Atta,10 kg,1624
+10/1/2025,Metro,Staples,Whole Wheat Flour,Chakki,5 kg,780
+10/1/2025,Imtiaz,Staples,Whole Wheat Flour,Chakki,5 kg,811
+10/1/2025,Carrefour,Staples,Whole Wheat Flour,Chakki,5 kg,835
+10/1/2025,Chase Up,Staples,Whole Wheat Flour,Chakki,5 kg,842
+10/1/2025,Naheed,Staples,Whole Wheat Flour,Chakki,5 kg,874
+10/1/2025,Metro,Staples,Sugar,Loose,1 kg,155
+10/1/2025,Imtiaz,Staples,Sugar,Loose,1 kg,161
+10/1/2025,Carrefour,Staples,Sugar,Loose,1 kg,166
+10/1/2025,Chase Up,Staples,Sugar,Loose,1 kg,167
+10/1/2025,Naheed,Staples,Sugar,Loose,1 kg,174
+10/1/2025,Metro,Staples,Salt,National,800 g,85
+10/1/2025,Imtiaz,Staples,Salt,National,800 g,88
+10/1/2025,Carrefour,Staples,Salt,National,800 g,91
+10/1/2025,Chase Up,Staples,Salt,National,800 g,92
+10/1/2025,Naheed,Staples,Salt,National,800 g,95
+10/1/2025,Metro,Staples,Daal Chana,Loose,1 kg,390
+10/1/2025,Imtiaz,Staples,Daal Chana,Loose,1 kg,406
+10/1/2025,Carrefour,Staples,Daal Chana,Loose,1 kg,417
+10/1/2025,Chase Up,Staples,Daal Chana,Loose,1 kg,421
+10/1/2025,Naheed,Staples,Daal Chana,Loose,1 kg,437
+10/1/2025,Metro,Staples,Daal Masoor,Loose,1 kg,410
+10/1/2025,Imtiaz,Staples,Daal Masoor,Loose,1 kg,426
+10/1/2025,Carrefour,Staples,Daal Masoor,Loose,1 kg,439
+10/1/2025,Chase Up,Staples,Daal Masoor,Loose,1 kg,443
+10/1/2025,Naheed,Staples,Daal Masoor,Loose,1 kg,459
+10/1/2025,Metro,Staples,Daal Moong,Loose,1 kg,420
+10/1/2025,Imtiaz,Staples,Daal Moong,Loose,1 kg,437
+10/1/2025,Carrefour,Staples,Daal Moong,Loose,1 kg,449
+10/1/2025,Chase Up,Staples,Daal Moong,Loose,1 kg,454
+10/1/2025,Naheed,Staples,Daal Moong,Loose,1 kg,470
+10/1/2025,Metro,Staples,White Chickpeas,Loose,1 kg,380
+10/1/2025,Imtiaz,Staples,White Chickpeas,Loose,1 kg,395
+10/1/2025,Carrefour,Staples,White Chickpeas,Loose,1 kg,407
+10/1/2025,Chase Up,Staples,White Chickpeas,Loose,1 kg,410
+10/1/2025,Naheed,Staples,White Chickpeas,Loose,1 kg,426
+10/1/2025,Metro,Staples,Red Kidney Beans,Loose,1 kg,430
+10/1/2025,Imtiaz,Staples,Red Kidney Beans,Loose,1 kg,447
+10/1/2025,Carrefour,Staples,Red Kidney Beans,Loose,1 kg,460
+10/1/2025,Chase Up,Staples,Red Kidney Beans,Loose,1 kg,464
+10/1/2025,Naheed,Staples,Red Kidney Beans,Loose,1 kg,482
+10/1/2025,Metro,Staples,Corn Flour,National,300 g,140
+10/1/2025,Imtiaz,Staples,Corn Flour,National,300 g,146
+10/1/2025,Carrefour,Staples,Corn Flour,National,300 g,150
+10/1/2025,Chase Up,Staples,Corn Flour,National,300 g,151
+10/1/2025,Naheed,Staples,Corn Flour,National,300 g,157
+10/1/2025,Metro,Staples,Gram Flour,National,1 kg,260
+10/1/2025,Imtiaz,Staples,Gram Flour,National,1 kg,270
+10/1/2025,Carrefour,Staples,Gram Flour,National,1 kg,278
+10/1/2025,Chase Up,Staples,Gram Flour,National,1 kg,281
+10/1/2025,Naheed,Staples,Gram Flour,National,1 kg,291
+10/1/2025,Metro,Dairy,Milk,Olpers,1 L,270
+10/1/2025,Imtiaz,Dairy,Milk,Olpers,1 L,278
+10/1/2025,Carrefour,Dairy,Milk,Olpers,1 L,284
+10/1/2025,Chase Up,Dairy,Milk,Olpers,1 L,286
+10/1/2025,Naheed,Dairy,Milk,Olpers,1 L,292
+10/1/2025,Metro,Dairy,Milk,Nestle Milkpak,500 ml,150
+10/1/2025,Imtiaz,Dairy,Milk,Nestle Milkpak,500 ml,154
+10/1/2025,Carrefour,Dairy,Milk,Nestle Milkpak,500 ml,158
+10/1/2025,Chase Up,Dairy,Milk,Nestle Milkpak,500 ml,159
+10/1/2025,Naheed,Dairy,Milk,Nestle Milkpak,500 ml,162
+10/1/2025,Metro,Dairy,Yogurt,Nurpur,1 kg,330
+10/1/2025,Imtiaz,Dairy,Yogurt,Nurpur,1 kg,340
+10/1/2025,Carrefour,Dairy,Yogurt,Nurpur,1 kg,346
+10/1/2025,Chase Up,Dairy,Yogurt,Nurpur,1 kg,350
+10/1/2025,Naheed,Dairy,Yogurt,Nurpur,1 kg,356
+10/1/2025,Metro,Dairy,Yogurt,Olpers,500 g,180
+10/1/2025,Imtiaz,Dairy,Yogurt,Olpers,500 g,185
+10/1/2025,Carrefour,Dairy,Yogurt,Olpers,500 g,189
+10/1/2025,Chase Up,Dairy,Yogurt,Olpers,500 g,191
+10/1/2025,Naheed,Dairy,Yogurt,Olpers,500 g,194
+10/1/2025,Metro,Dairy,Butter,Nurpur,200 g,310
+10/1/2025,Imtiaz,Dairy,Butter,Nurpur,200 g,319
+10/1/2025,Carrefour,Dairy,Butter,Nurpur,200 g,326
+10/1/2025,Chase Up,Dairy,Butter,Nurpur,200 g,329
+10/1/2025,Naheed,Dairy,Butter,Nurpur,200 g,335
+10/1/2025,Metro,Dairy,Cheese Slices,Dairyland,200 g,360
+10/1/2025,Imtiaz,Dairy,Cheese Slices,Dairyland,200 g,371
+10/1/2025,Carrefour,Dairy,Cheese Slices,Dairyland,200 g,378
+10/1/2025,Chase Up,Dairy,Cheese Slices,Dairyland,200 g,382
+10/1/2025,Naheed,Dairy,Cheese Slices,Dairyland,200 g,389
+10/1/2025,Metro,Dairy,Cheese Block,Adam's,200 g,380
+10/1/2025,Imtiaz,Dairy,Cheese Block,Adam's,200 g,391
+10/1/2025,Carrefour,Dairy,Cheese Block,Adam's,200 g,399
+10/1/2025,Chase Up,Dairy,Cheese Block,Adam's,200 g,403
+10/1/2025,Naheed,Dairy,Cheese Block,Adam's,200 g,410
+10/1/2025,Metro,Dairy,Cream,Olpers,200 ml,160
+10/1/2025,Imtiaz,Dairy,Cream,Olpers,200 ml,165
+10/1/2025,Carrefour,Dairy,Cream,Olpers,200 ml,168
+10/1/2025,Chase Up,Dairy,Cream,Olpers,200 ml,170
+10/1/2025,Naheed,Dairy,Cream,Olpers,200 ml,173
+10/1/2025,Metro,Dairy,Flavored Milk,Nestle,250 ml,90
+10/1/2025,Imtiaz,Dairy,Flavored Milk,Nestle,250 ml,93
+10/1/2025,Carrefour,Dairy,Flavored Milk,Nestle,250 ml,94
+10/1/2025,Chase Up,Dairy,Flavored Milk,Nestle,250 ml,95
+10/1/2025,Naheed,Dairy,Flavored Milk,Nestle,250 ml,97
+10/1/2025,Metro,Dairy,Eggs,Farm Eggs,12 pcs,400
+10/1/2025,Imtiaz,Dairy,Eggs,Farm Eggs,12 pcs,412
+10/1/2025,Carrefour,Dairy,Eggs,Farm Eggs,12 pcs,420
+10/1/2025,Chase Up,Dairy,Eggs,Farm Eggs,12 pcs,424
+10/1/2025,Naheed,Dairy,Eggs,Farm Eggs,12 pcs,432
+10/1/2025,Metro,Bakery,White Bread,Dawn,800 g,165
+10/1/2025,Imtiaz,Bakery,White Bread,Dawn,800 g,170
+10/1/2025,Carrefour,Bakery,White Bread,Dawn,800 g,175
+10/1/2025,Chase Up,Bakery,White Bread,Dawn,800 g,177
+10/1/2025,Naheed,Bakery,White Bread,Dawn,800 g,182
+10/1/2025,Metro,Bakery,Brown Bread,Dawn,800 g,175
+10/1/2025,Imtiaz,Bakery,Brown Bread,Dawn,800 g,180
+10/1/2025,Carrefour,Bakery,Brown Bread,Dawn,800 g,186
+10/1/2025,Chase Up,Bakery,Brown Bread,Dawn,800 g,187
+10/1/2025,Naheed,Bakery,Brown Bread,Dawn,800 g,193
+10/1/2025,Metro,Bakery,Burger Buns,Dawn,6 pcs,160
+10/1/2025,Imtiaz,Bakery,Burger Buns,Dawn,6 pcs,165
+10/1/2025,Carrefour,Bakery,Burger Buns,Dawn,6 pcs,170
+10/1/2025,Chase Up,Bakery,Burger Buns,Dawn,6 pcs,171
+10/1/2025,Naheed,Bakery,Burger Buns,Dawn,6 pcs,176
+10/1/2025,Metro,Bakery,Sandwich Bread,Dawn,800 g,180
+10/1/2025,Imtiaz,Bakery,Sandwich Bread,Dawn,800 g,185
+10/1/2025,Carrefour,Bakery,Sandwich Bread,Dawn,800 g,191
+10/1/2025,Chase Up,Bakery,Sandwich Bread,Dawn,800 g,193
+10/1/2025,Naheed,Bakery,Sandwich Bread,Dawn,800 g,198
+10/1/2025,Metro,Bakery,Plain Cake,English Cake,400 g,320
+10/1/2025,Imtiaz,Bakery,Plain Cake,English Cake,400 g,330
+10/1/2025,Carrefour,Bakery,Plain Cake,English Cake,400 g,339
+10/1/2025,Chase Up,Bakery,Plain Cake,English Cake,400 g,342
+10/1/2025,Naheed,Bakery,Plain Cake,English Cake,400 g,352
+10/1/2025,Metro,Bakery,Chocolate Cake,English Cake,400 g,360
+10/1/2025,Imtiaz,Bakery,Chocolate Cake,English Cake,400 g,371
+10/1/2025,Carrefour,Bakery,Chocolate Cake,English Cake,400 g,382
+10/1/2025,Chase Up,Bakery,Chocolate Cake,English Cake,400 g,385
+10/1/2025,Naheed,Bakery,Chocolate Cake,English Cake,400 g,396
+10/1/2025,Metro,Bakery,Rusks,Bisconni,1 kg,420
+10/1/2025,Imtiaz,Bakery,Rusks,Bisconni,1 kg,433
+10/1/2025,Carrefour,Bakery,Rusks,Bisconni,1 kg,445
+10/1/2025,Chase Up,Bakery,Rusks,Bisconni,1 kg,449
+10/1/2025,Naheed,Bakery,Rusks,Bisconni,1 kg,462
+10/1/2025,Metro,Bakery,Croissants,Bake Parlor,4 pcs,300
+10/1/2025,Imtiaz,Bakery,Croissants,Bake Parlor,4 pcs,309
+10/1/2025,Carrefour,Bakery,Croissants,Bake Parlor,4 pcs,318
+10/1/2025,Chase Up,Bakery,Croissants,Bake Parlor,4 pcs,321
+10/1/2025,Naheed,Bakery,Croissants,Bake Parlor,4 pcs,330
+10/1/2025,Metro,Bakery,Cup Cakes,Bake Parlor,6 pcs,280
+10/1/2025,Imtiaz,Bakery,Cup Cakes,Bake Parlor,6 pcs,288
+10/1/2025,Carrefour,Bakery,Cup Cakes,Bake Parlor,6 pcs,297
+10/1/2025,Chase Up,Bakery,Cup Cakes,Bake Parlor,6 pcs,300
+10/1/2025,Naheed,Bakery,Cup Cakes,Bake Parlor,6 pcs,308
+10/1/2025,Metro,Bakery,Pizza Base,Dawn,2 pcs,240
+10/1/2025,Imtiaz,Bakery,Pizza Base,Dawn,2 pcs,247
+10/1/2025,Carrefour,Bakery,Pizza Base,Dawn,2 pcs,254
+10/1/2025,Chase Up,Bakery,Pizza Base,Dawn,2 pcs,257
+10/1/2025,Naheed,Bakery,Pizza Base,Dawn,2 pcs,264
+10/1/2025,Metro,Beverages,Pepsi,Pepsi,1.5 L,185
+10/1/2025,Imtiaz,Beverages,Pepsi,Pepsi,1.5 L,189
+10/1/2025,Carrefour,Beverages,Pepsi,Pepsi,1.5 L,191
+10/1/2025,Chase Up,Beverages,Pepsi,Pepsi,1.5 L,191
+10/1/2025,Naheed,Beverages,Pepsi,Pepsi,1.5 L,192
+10/1/2025,Metro,Beverages,Pepsi,Pepsi,500 ml,90
+10/1/2025,Imtiaz,Beverages,Pepsi,Pepsi,500 ml,92
+10/1/2025,Carrefour,Beverages,Pepsi,Pepsi,500 ml,93
+10/1/2025,Chase Up,Beverages,Pepsi,Pepsi,500 ml,93
+10/1/2025,Naheed,Beverages,Pepsi,Pepsi,500 ml,94
+10/1/2025,Metro,Beverages,Coca-Cola,Coke,1.5 L,185
+10/1/2025,Imtiaz,Beverages,Coca-Cola,Coke,1.5 L,189
+10/1/2025,Carrefour,Beverages,Coca-Cola,Coke,1.5 L,191
+10/1/2025,Chase Up,Beverages,Coca-Cola,Coke,1.5 L,191
+10/1/2025,Naheed,Beverages,Coca-Cola,Coke,1.5 L,192
+10/1/2025,Metro,Beverages,7Up,7Up,1.5 L,185
+10/1/2025,Imtiaz,Beverages,7Up,7Up,1.5 L,189
+10/1/2025,Carrefour,Beverages,7Up,7Up,1.5 L,191
+10/1/2025,Chase Up,Beverages,7Up,7Up,1.5 L,191
+10/1/2025,Naheed,Beverages,7Up,7Up,1.5 L,192
+10/1/2025,Metro,Beverages,Sprite,Sprite,1.5 L,185
+10/1/2025,Imtiaz,Beverages,Sprite,Sprite,1.5 L,189
+10/1/2025,Carrefour,Beverages,Sprite,Sprite,1.5 L,191
+10/1/2025,Chase Up,Beverages,Sprite,Sprite,1.5 L,191
+10/1/2025,Naheed,Beverages,Sprite,Sprite,1.5 L,192
+10/1/2025,Metro,Beverages,Sting,Sting,500 ml,120
+10/1/2025,Imtiaz,Beverages,Sting,Sting,500 ml,122
+10/1/2025,Carrefour,Beverages,Sting,Sting,500 ml,124
+10/1/2025,Chase Up,Beverages,Sting,Sting,500 ml,124
+10/1/2025,Naheed,Beverages,Sting,Sting,500 ml,125
+10/1/2025,Metro,Beverages,Mountain Dew,MD,500 ml,120
+10/1/2025,Imtiaz,Beverages,Mountain Dew,MD,500 ml,122
+10/1/2025,Carrefour,Beverages,Mountain Dew,MD,500 ml,124
+10/1/2025,Chase Up,Beverages,Mountain Dew,MD,500 ml,124
+10/1/2025,Naheed,Beverages,Mountain Dew,MD,500 ml,125
+10/1/2025,Metro,Beverages,Mineral Water,Nestle,1.5 L,90
+10/1/2025,Imtiaz,Beverages,Mineral Water,Nestle,1.5 L,92
+10/1/2025,Carrefour,Beverages,Mineral Water,Nestle,1.5 L,93
+10/1/2025,Chase Up,Beverages,Mineral Water,Nestle,1.5 L,93
+10/1/2025,Naheed,Beverages,Mineral Water,Nestle,1.5 L,94
+10/1/2025,Metro,Beverages,Juice,Nestle,1 L,280
+10/1/2025,Imtiaz,Beverages,Juice,Nestle,1 L,286
+10/1/2025,Carrefour,Beverages,Juice,Nestle,1 L,288
+10/1/2025,Chase Up,Beverages,Juice,Nestle,1 L,288
+10/1/2025,Naheed,Beverages,Juice,Nestle,1 L,291
+10/1/2025,Metro,Beverages,Iced Tea,Lipton,500 ml,170
+10/1/2025,Imtiaz,Beverages,Iced Tea,Lipton,500 ml,173
+10/1/2025,Carrefour,Beverages,Iced Tea,Lipton,500 ml,175
+10/1/2025,Chase Up,Beverages,Iced Tea,Lipton,500 ml,175
+10/1/2025,Naheed,Beverages,Iced Tea,Lipton,500 ml,177
+10/1/2025,Metro,Packaged,Tea,Tapal Danedar,950 g,1500
+10/1/2025,Imtiaz,Packaged,Tea,Tapal Danedar,950 g,1545
+10/1/2025,Carrefour,Packaged,Tea,Tapal Danedar,950 g,1590
+10/1/2025,Chase Up,Packaged,Tea,Tapal Danedar,950 g,1605
+10/1/2025,Naheed,Packaged,Tea,Tapal Danedar,950 g,1650
+10/1/2025,Metro,Packaged,Tea,Tapal Danedar,475 g,780
+10/1/2025,Imtiaz,Packaged,Tea,Tapal Danedar,475 g,803
+10/1/2025,Carrefour,Packaged,Tea,Tapal Danedar,475 g,827
+10/1/2025,Chase Up,Packaged,Tea,Tapal Danedar,475 g,835
+10/1/2025,Naheed,Packaged,Tea,Tapal Danedar,475 g,858
+10/1/2025,Metro,Packaged,Coffee,Nescafe,200 g,920
+10/1/2025,Imtiaz,Packaged,Coffee,Nescafe,200 g,948
+10/1/2025,Carrefour,Packaged,Coffee,Nescafe,200 g,975
+10/1/2025,Chase Up,Packaged,Coffee,Nescafe,200 g,984
+10/1/2025,Naheed,Packaged,Coffee,Nescafe,200 g,1012
+10/1/2025,Metro,Packaged,Biscuits,LU Sooper,Half Roll,240
+10/1/2025,Imtiaz,Packaged,Biscuits,LU Sooper,Half Roll,247
+10/1/2025,Carrefour,Packaged,Biscuits,LU Sooper,Half Roll,254
+10/1/2025,Chase Up,Packaged,Biscuits,LU Sooper,Half Roll,257
+10/1/2025,Naheed,Packaged,Biscuits,LU Sooper,Half Roll,264
+10/1/2025,Metro,Packaged,Chocolates,Dairy Milk,90 g,280
+10/1/2025,Imtiaz,Packaged,Chocolates,Dairy Milk,90 g,288
+10/1/2025,Carrefour,Packaged,Chocolates,Dairy Milk,90 g,297
+10/1/2025,Chase Up,Packaged,Chocolates,Dairy Milk,90 g,300
+10/1/2025,Naheed,Packaged,Chocolates,Dairy Milk,90 g,308
+10/1/2025,Metro,Packaged,Chips,Lays,Large,180
+10/1/2025,Imtiaz,Packaged,Chips,Lays,Large,185
+10/1/2025,Carrefour,Packaged,Chips,Lays,Large,191
+10/1/2025,Chase Up,Packaged,Chips,Lays,Large,193
+10/1/2025,Naheed,Packaged,Chips,Lays,Large,198
+10/1/2025,Metro,Packaged,Ketchup,National,800 g,420
+10/1/2025,Imtiaz,Packaged,Ketchup,National,800 g,433
+10/1/2025,Carrefour,Packaged,Ketchup,National,800 g,445
+10/1/2025,Chase Up,Packaged,Ketchup,National,800 g,449
+10/1/2025,Naheed,Packaged,Ketchup,National,800 g,462
+10/1/2025,Metro,Packaged,Mayonnaise,Young's,500 g,350
+10/1/2025,Imtiaz,Packaged,Mayonnaise,Young's,500 g,360
+10/1/2025,Carrefour,Packaged,Mayonnaise,Young's,500 g,371
+10/1/2025,Chase Up,Packaged,Mayonnaise,Young's,500 g,374
+10/1/2025,Naheed,Packaged,Mayonnaise,Young's,500 g,385
+10/1/2025,Metro,Packaged,Jam,Mitchell's,450 g,310
+10/1/2025,Imtiaz,Packaged,Jam,Mitchell's,450 g,319
+10/1/2025,Carrefour,Packaged,Jam,Mitchell's,450 g,329
+10/1/2025,Chase Up,Packaged,Jam,Mitchell's,450 g,332
+10/1/2025,Naheed,Packaged,Jam,Mitchell's,450 g,341
+10/1/2025,Metro,Packaged,Breakfast Cereal,Kellogg's,500 g,680
+10/1/2025,Imtiaz,Packaged,Breakfast Cereal,Kellogg's,500 g,700
+10/1/2025,Carrefour,Packaged,Breakfast Cereal,Kellogg's,500 g,721
+10/1/2025,Chase Up,Packaged,Breakfast Cereal,Kellogg's,500 g,728
+10/1/2025,Naheed,Packaged,Breakfast Cereal,Kellogg's,500 g,748
+10/1/2025,Metro,Household,Washing Powder,Ariel,1 kg,420
+10/1/2025,Imtiaz,Household,Washing Powder,Ariel,1 kg,437
+10/1/2025,Carrefour,Household,Washing Powder,Ariel,1 kg,449
+10/1/2025,Chase Up,Household,Washing Powder,Ariel,1 kg,454
+10/1/2025,Naheed,Household,Washing Powder,Ariel,1 kg,470
+10/1/2025,Metro,Household,Liquid Detergent,Surf Excel,1 L,460
+10/1/2025,Imtiaz,Household,Liquid Detergent,Surf Excel,1 L,478
+10/1/2025,Carrefour,Household,Liquid Detergent,Surf Excel,1 L,492
+10/1/2025,Chase Up,Household,Liquid Detergent,Surf Excel,1 L,497
+10/1/2025,Naheed,Household,Liquid Detergent,Surf Excel,1 L,515
+10/1/2025,Metro,Household,Dish Wash Liquid,Vim,500 ml,190
+10/1/2025,Imtiaz,Household,Dish Wash Liquid,Vim,500 ml,198
+10/1/2025,Carrefour,Household,Dish Wash Liquid,Vim,500 ml,203
+10/1/2025,Chase Up,Household,Dish Wash Liquid,Vim,500 ml,205
+10/1/2025,Naheed,Household,Dish Wash Liquid,Vim,500 ml,213
+10/1/2025,Metro,Household,Dish Wash Bar,Vim,300 g,110
+10/1/2025,Imtiaz,Household,Dish Wash Bar,Vim,300 g,114
+10/1/2025,Carrefour,Household,Dish Wash Bar,Vim,300 g,118
+10/1/2025,Chase Up,Household,Dish Wash Bar,Vim,300 g,119
+10/1/2025,Naheed,Household,Dish Wash Bar,Vim,300 g,123
+10/1/2025,Metro,Household,Toilet Cleaner,Harpic,500 ml,210
+10/1/2025,Imtiaz,Household,Toilet Cleaner,Harpic,500 ml,218
+10/1/2025,Carrefour,Household,Toilet Cleaner,Harpic,500 ml,225
+10/1/2025,Chase Up,Household,Toilet Cleaner,Harpic,500 ml,227
+10/1/2025,Naheed,Household,Toilet Cleaner,Harpic,500 ml,235
+10/1/2025,Metro,Household,Floor Cleaner,Max,1 L,260
+10/1/2025,Imtiaz,Household,Floor Cleaner,Max,1 L,270
+10/1/2025,Carrefour,Household,Floor Cleaner,Max,1 L,278
+10/1/2025,Chase Up,Household,Floor Cleaner,Max,1 L,281
+10/1/2025,Naheed,Household,Floor Cleaner,Max,1 L,291
+10/1/2025,Metro,Household,Tissue Box,Rose Petal,200 sheets,220
+10/1/2025,Imtiaz,Household,Tissue Box,Rose Petal,200 sheets,229
+10/1/2025,Carrefour,Household,Tissue Box,Rose Petal,200 sheets,235
+10/1/2025,Chase Up,Household,Tissue Box,Rose Petal,200 sheets,238
+10/1/2025,Naheed,Household,Tissue Box,Rose Petal,200 sheets,246
+10/1/2025,Metro,Household,Kitchen Towels,Rose Petal,2 rolls,240
+10/1/2025,Imtiaz,Household,Kitchen Towels,Rose Petal,2 rolls,250
+10/1/2025,Carrefour,Household,Kitchen Towels,Rose Petal,2 rolls,257
+10/1/2025,Chase Up,Household,Kitchen Towels,Rose Petal,2 rolls,259
+10/1/2025,Naheed,Household,Kitchen Towels,Rose Petal,2 rolls,269
+10/1/2025,Metro,Household,Garbage Bags,Dalda,Medium,180
+10/1/2025,Imtiaz,Household,Garbage Bags,Dalda,Medium,187
+10/1/2025,Carrefour,Household,Garbage Bags,Dalda,Medium,193
+10/1/2025,Chase Up,Household,Garbage Bags,Dalda,Medium,194
+10/1/2025,Naheed,Household,Garbage Bags,Dalda,Medium,202
+10/1/2025,Metro,Household,Air Freshener,Axe,300 ml,360
+10/1/2025,Imtiaz,Household,Air Freshener,Axe,300 ml,374
+10/1/2025,Carrefour,Household,Air Freshener,Axe,300 ml,385
+10/1/2025,Chase Up,Household,Air Freshener,Axe,300 ml,389
+10/1/2025,Naheed,Household,Air Freshener,Axe,300 ml,403
+10/1/2025,Metro,Frozen,Frozen Chicken,K&Ns,1 kg,780
+10/1/2025,Imtiaz,Frozen,Frozen Chicken,K&Ns,1 kg,803
+10/1/2025,Carrefour,Frozen,Frozen Chicken,K&Ns,1 kg,827
+10/1/2025,Chase Up,Frozen,Frozen Chicken,K&Ns,1 kg,835
+10/1/2025,Naheed,Frozen,Frozen Chicken,K&Ns,1 kg,858
+10/1/2025,Metro,Frozen,Chicken Nuggets,K&Ns,700 g,680
+10/1/2025,Imtiaz,Frozen,Chicken Nuggets,K&Ns,700 g,700
+10/1/2025,Carrefour,Frozen,Chicken Nuggets,K&Ns,700 g,721
+10/1/2025,Chase Up,Frozen,Chicken Nuggets,K&Ns,700 g,728
+10/1/2025,Naheed,Frozen,Chicken Nuggets,K&Ns,700 g,748
+10/1/2025,Metro,Frozen,Frozen Fries,Dawn,1 kg,420
+10/1/2025,Imtiaz,Frozen,Frozen Fries,Dawn,1 kg,433
+10/1/2025,Carrefour,Frozen,Frozen Fries,Dawn,1 kg,445
+10/1/2025,Chase Up,Frozen,Frozen Fries,Dawn,1 kg,449
+10/1/2025,Naheed,Frozen,Frozen Fries,Dawn,1 kg,462
+10/1/2025,Metro,Frozen,Frozen Paratha,Dawn,5 pcs,360
+10/1/2025,Imtiaz,Frozen,Frozen Paratha,Dawn,5 pcs,371
+10/1/2025,Carrefour,Frozen,Frozen Paratha,Dawn,5 pcs,382
+10/1/2025,Chase Up,Frozen,Frozen Paratha,Dawn,5 pcs,385
+10/1/2025,Naheed,Frozen,Frozen Paratha,Dawn,5 pcs,396
+10/1/2025,Metro,Frozen,Frozen Samosa,Sufi,600 g,380
+10/1/2025,Imtiaz,Frozen,Frozen Samosa,Sufi,600 g,391
+10/1/2025,Carrefour,Frozen,Frozen Samosa,Sufi,600 g,403
+10/1/2025,Chase Up,Frozen,Frozen Samosa,Sufi,600 g,407
+10/1/2025,Naheed,Frozen,Frozen Samosa,Sufi,600 g,418
+10/1/2025,Metro,Frozen,Beef Mince,Fresh,1 kg,920
+10/1/2025,Imtiaz,Frozen,Beef Mince,Fresh,1 kg,948
+10/1/2025,Carrefour,Frozen,Beef Mince,Fresh,1 kg,975
+10/1/2025,Chase Up,Frozen,Beef Mince,Fresh,1 kg,984
+10/1/2025,Naheed,Frozen,Beef Mince,Fresh,1 kg,1012
+10/1/2025,Metro,Frozen,Chicken Mince,Fresh,1 kg,760
+10/1/2025,Imtiaz,Frozen,Chicken Mince,Fresh,1 kg,783
+10/1/2025,Carrefour,Frozen,Chicken Mince,Fresh,1 kg,806
+10/1/2025,Chase Up,Frozen,Chicken Mince,Fresh,1 kg,813
+10/1/2025,Naheed,Frozen,Chicken Mince,Fresh,1 kg,836
+10/1/2025,Metro,Frozen,Fish Fillets,Fresh,1 kg,980
+10/1/2025,Imtiaz,Frozen,Fish Fillets,Fresh,1 kg,1009
+10/1/2025,Carrefour,Frozen,Fish Fillets,Fresh,1 kg,1039
+10/1/2025,Chase Up,Frozen,Fish Fillets,Fresh,1 kg,1049
+10/1/2025,Naheed,Frozen,Fish Fillets,Fresh,1 kg,1078
+10/1/2025,Metro,Frozen,Frozen Peas,Dawn,900 g,300
+10/1/2025,Imtiaz,Frozen,Frozen Peas,Dawn,900 g,309
+10/1/2025,Carrefour,Frozen,Frozen Peas,Dawn,900 g,318
+10/1/2025,Chase Up,Frozen,Frozen Peas,Dawn,900 g,321
+10/1/2025,Naheed,Frozen,Frozen Peas,Dawn,900 g,330
+10/1/2025,Metro,Frozen,Frozen Mixed Veg,Dawn,900 g,320
+10/1/2025,Imtiaz,Frozen,Frozen Mixed Veg,Dawn,900 g,330
+10/1/2025,Carrefour,Frozen,Frozen Mixed Veg,Dawn,900 g,339
+10/1/2025,Chase Up,Frozen,Frozen Mixed Veg,Dawn,900 g,342
+10/1/2025,Naheed,Frozen,Frozen Mixed Veg,Dawn,900 g,352
+11/1/2025,Metro,Staples,Basmati Rice,Falak,1 kg,306
+11/1/2025,Imtiaz,Staples,Basmati Rice,Ponam,1 kg,318
+11/1/2025,Carrefour,Staples,Basmati Rice,Falak,1 kg,327
+11/1/2025,Chase Up,Staples,Basmati Rice,Falak,1 kg,330
+11/1/2025,Naheed,Staples,Basmati Rice,Falak,1 kg,343
+11/1/2025,Metro,Staples,Super Kernel Rice,Guard,1 kg,326
+11/1/2025,Imtiaz,Staples,Super Kernel Rice,Guard,1 kg,339
+11/1/2025,Carrefour,Staples,Super Kernel Rice,Guard,1 kg,349
+11/1/2025,Chase Up,Staples,Super Kernel Rice,Guard,1 kg,353
+11/1/2025,Naheed,Staples,Super Kernel Rice,Guard,1 kg,366
+11/1/2025,Metro,Staples,IRRI Rice,Loose,1 kg,245
+11/1/2025,Imtiaz,Staples,IRRI Rice,Loose,1 kg,255
+11/1/2025,Carrefour,Staples,IRRI Rice,Loose,1 kg,262
+11/1/2025,Chase Up,Staples,IRRI Rice,Loose,1 kg,264
+11/1/2025,Naheed,Staples,IRRI Rice,Loose,1 kg,274
+11/1/2025,Metro,Staples,Brown Rice,Guard,1 kg,367
+11/1/2025,Imtiaz,Staples,Brown Rice,Guard,1 kg,382
+11/1/2025,Carrefour,Staples,Brown Rice,Guard,1 kg,393
+11/1/2025,Chase Up,Staples,Brown Rice,Guard,1 kg,397
+11/1/2025,Naheed,Staples,Brown Rice,Guard,1 kg,411
+11/1/2025,Metro,Staples,Wheat Flour,Atta,10 kg,1479
+11/1/2025,Imtiaz,Staples,Wheat Flour,Atta,10 kg,1538
+11/1/2025,Carrefour,Staples,Wheat Flour,Atta,10 kg,1583
+11/1/2025,Chase Up,Staples,Wheat Flour,Atta,10 kg,1597
+11/1/2025,Naheed,Staples,Wheat Flour,Atta,10 kg,1656
+11/1/2025,Metro,Staples,Whole Wheat Flour,Chakki,5 kg,796
+11/1/2025,Imtiaz,Staples,Whole Wheat Flour,Chakki,5 kg,827
+11/1/2025,Carrefour,Staples,Whole Wheat Flour,Chakki,5 kg,851
+11/1/2025,Chase Up,Staples,Whole Wheat Flour,Chakki,5 kg,859
+11/1/2025,Naheed,Staples,Whole Wheat Flour,Chakki,5 kg,891
+11/1/2025,Metro,Staples,Sugar,Loose,1 kg,158
+11/1/2025,Imtiaz,Staples,Sugar,Loose,1 kg,164
+11/1/2025,Carrefour,Staples,Sugar,Loose,1 kg,169
+11/1/2025,Chase Up,Staples,Sugar,Loose,1 kg,171
+11/1/2025,Naheed,Staples,Sugar,Loose,1 kg,177
+11/1/2025,Metro,Staples,Salt,National,800 g,87
+11/1/2025,Imtiaz,Staples,Salt,National,800 g,90
+11/1/2025,Carrefour,Staples,Salt,National,800 g,93
+11/1/2025,Chase Up,Staples,Salt,National,800 g,94
+11/1/2025,Naheed,Staples,Salt,National,800 g,97
+11/1/2025,Metro,Staples,Daal Chana,Loose,1 kg,398
+11/1/2025,Imtiaz,Staples,Daal Chana,Loose,1 kg,414
+11/1/2025,Carrefour,Staples,Daal Chana,Loose,1 kg,426
+11/1/2025,Chase Up,Staples,Daal Chana,Loose,1 kg,430
+11/1/2025,Naheed,Staples,Daal Chana,Loose,1 kg,446
+11/1/2025,Metro,Staples,Daal Masoor,Loose,1 kg,418
+11/1/2025,Imtiaz,Staples,Daal Masoor,Loose,1 kg,435
+11/1/2025,Carrefour,Staples,Daal Masoor,Loose,1 kg,447
+11/1/2025,Chase Up,Staples,Daal Masoor,Loose,1 kg,452
+11/1/2025,Naheed,Staples,Daal Masoor,Loose,1 kg,468
+11/1/2025,Metro,Staples,Daal Moong,Loose,1 kg,428
+11/1/2025,Imtiaz,Staples,Daal Moong,Loose,1 kg,446
+11/1/2025,Carrefour,Staples,Daal Moong,Loose,1 kg,458
+11/1/2025,Chase Up,Staples,Daal Moong,Loose,1 kg,463
+11/1/2025,Naheed,Staples,Daal Moong,Loose,1 kg,480
+11/1/2025,Metro,Staples,White Chickpeas,Loose,1 kg,388
+11/1/2025,Imtiaz,Staples,White Chickpeas,Loose,1 kg,403
+11/1/2025,Carrefour,Staples,White Chickpeas,Loose,1 kg,415
+11/1/2025,Chase Up,Staples,White Chickpeas,Loose,1 kg,419
+11/1/2025,Naheed,Staples,White Chickpeas,Loose,1 kg,434
+11/1/2025,Metro,Staples,Red Kidney Beans,Loose,1 kg,439
+11/1/2025,Imtiaz,Staples,Red Kidney Beans,Loose,1 kg,456
+11/1/2025,Carrefour,Staples,Red Kidney Beans,Loose,1 kg,469
+11/1/2025,Chase Up,Staples,Red Kidney Beans,Loose,1 kg,474
+11/1/2025,Naheed,Staples,Red Kidney Beans,Loose,1 kg,491
+11/1/2025,Metro,Staples,Corn Flour,National,300 g,143
+11/1/2025,Imtiaz,Staples,Corn Flour,National,300 g,149
+11/1/2025,Carrefour,Staples,Corn Flour,National,300 g,153
+11/1/2025,Chase Up,Staples,Corn Flour,National,300 g,154
+11/1/2025,Naheed,Staples,Corn Flour,National,300 g,160
+11/1/2025,Metro,Staples,Gram Flour,National,1 kg,265
+11/1/2025,Imtiaz,Staples,Gram Flour,National,1 kg,276
+11/1/2025,Carrefour,Staples,Gram Flour,National,1 kg,284
+11/1/2025,Chase Up,Staples,Gram Flour,National,1 kg,286
+11/1/2025,Naheed,Staples,Gram Flour,National,1 kg,297
+11/1/2025,Metro,Dairy,Milk,Olpers,1 L,275
+11/1/2025,Imtiaz,Dairy,Milk,Olpers,1 L,284
+11/1/2025,Carrefour,Dairy,Milk,Olpers,1 L,289
+11/1/2025,Chase Up,Dairy,Milk,Olpers,1 L,292
+11/1/2025,Naheed,Dairy,Milk,Olpers,1 L,297
+11/1/2025,Metro,Dairy,Milk,Nestle Milkpak,500 ml,153
+11/1/2025,Imtiaz,Dairy,Milk,Nestle Milkpak,500 ml,158
+11/1/2025,Carrefour,Dairy,Milk,Nestle Milkpak,500 ml,161
+11/1/2025,Chase Up,Dairy,Milk,Nestle Milkpak,500 ml,162
+11/1/2025,Naheed,Dairy,Milk,Nestle Milkpak,500 ml,165
+11/1/2025,Metro,Dairy,Yogurt,Nurpur,1 kg,337
+11/1/2025,Imtiaz,Dairy,Yogurt,Nurpur,1 kg,347
+11/1/2025,Carrefour,Dairy,Yogurt,Nurpur,1 kg,353
+11/1/2025,Chase Up,Dairy,Yogurt,Nurpur,1 kg,357
+11/1/2025,Naheed,Dairy,Yogurt,Nurpur,1 kg,364
+11/1/2025,Metro,Dairy,Yogurt,Olpers,500 g,184
+11/1/2025,Imtiaz,Dairy,Yogurt,Olpers,500 g,189
+11/1/2025,Carrefour,Dairy,Yogurt,Olpers,500 g,193
+11/1/2025,Chase Up,Dairy,Yogurt,Olpers,500 g,195
+11/1/2025,Naheed,Dairy,Yogurt,Olpers,500 g,198
+11/1/2025,Metro,Dairy,Butter,Nurpur,200 g,316
+11/1/2025,Imtiaz,Dairy,Butter,Nurpur,200 g,326
+11/1/2025,Carrefour,Dairy,Butter,Nurpur,200 g,332
+11/1/2025,Chase Up,Dairy,Butter,Nurpur,200 g,335
+11/1/2025,Naheed,Dairy,Butter,Nurpur,200 g,341
+11/1/2025,Metro,Dairy,Cheese Slices,Dairyland,200 g,367
+11/1/2025,Imtiaz,Dairy,Cheese Slices,Dairyland,200 g,378
+11/1/2025,Carrefour,Dairy,Cheese Slices,Dairyland,200 g,386
+11/1/2025,Chase Up,Dairy,Cheese Slices,Dairyland,200 g,389
+11/1/2025,Naheed,Dairy,Cheese Slices,Dairyland,200 g,397
+11/1/2025,Metro,Dairy,Cheese Block,Adam's,200 g,388
+11/1/2025,Imtiaz,Dairy,Cheese Block,Adam's,200 g,399
+11/1/2025,Carrefour,Dairy,Cheese Block,Adam's,200 g,407
+11/1/2025,Chase Up,Dairy,Cheese Block,Adam's,200 g,411
+11/1/2025,Naheed,Dairy,Cheese Block,Adam's,200 g,419
+11/1/2025,Metro,Dairy,Cream,Olpers,200 ml,163
+11/1/2025,Imtiaz,Dairy,Cream,Olpers,200 ml,168
+11/1/2025,Carrefour,Dairy,Cream,Olpers,200 ml,171
+11/1/2025,Chase Up,Dairy,Cream,Olpers,200 ml,173
+11/1/2025,Naheed,Dairy,Cream,Olpers,200 ml,176
+11/1/2025,Metro,Dairy,Flavored Milk,Nestle,250 ml,92
+11/1/2025,Imtiaz,Dairy,Flavored Milk,Nestle,250 ml,95
+11/1/2025,Carrefour,Dairy,Flavored Milk,Nestle,250 ml,96
+11/1/2025,Chase Up,Dairy,Flavored Milk,Nestle,250 ml,97
+11/1/2025,Naheed,Dairy,Flavored Milk,Nestle,250 ml,99
+11/1/2025,Metro,Dairy,Eggs,Farm Eggs,12 pcs,408
+11/1/2025,Imtiaz,Dairy,Eggs,Farm Eggs,12 pcs,420
+11/1/2025,Carrefour,Dairy,Eggs,Farm Eggs,12 pcs,428
+11/1/2025,Chase Up,Dairy,Eggs,Farm Eggs,12 pcs,432
+11/1/2025,Naheed,Dairy,Eggs,Farm Eggs,12 pcs,441
+11/1/2025,Metro,Bakery,White Bread,Dawn,800 g,168
+11/1/2025,Imtiaz,Bakery,White Bread,Dawn,800 g,173
+11/1/2025,Carrefour,Bakery,White Bread,Dawn,800 g,178
+11/1/2025,Chase Up,Bakery,White Bread,Dawn,800 g,180
+11/1/2025,Naheed,Bakery,White Bread,Dawn,800 g,185
+11/1/2025,Metro,Bakery,Brown Bread,Dawn,800 g,178
+11/1/2025,Imtiaz,Bakery,Brown Bread,Dawn,800 g,184
+11/1/2025,Carrefour,Bakery,Brown Bread,Dawn,800 g,189
+11/1/2025,Chase Up,Bakery,Brown Bread,Dawn,800 g,191
+11/1/2025,Naheed,Bakery,Brown Bread,Dawn,800 g,196
+11/1/2025,Metro,Bakery,Burger Buns,Dawn,6 pcs,163
+11/1/2025,Imtiaz,Bakery,Burger Buns,Dawn,6 pcs,168
+11/1/2025,Carrefour,Bakery,Burger Buns,Dawn,6 pcs,173
+11/1/2025,Chase Up,Bakery,Burger Buns,Dawn,6 pcs,175
+11/1/2025,Naheed,Bakery,Burger Buns,Dawn,6 pcs,180
+11/1/2025,Metro,Bakery,Sandwich Bread,Dawn,800 g,184
+11/1/2025,Imtiaz,Bakery,Sandwich Bread,Dawn,800 g,189
+11/1/2025,Carrefour,Bakery,Sandwich Bread,Dawn,800 g,195
+11/1/2025,Chase Up,Bakery,Sandwich Bread,Dawn,800 g,196
+11/1/2025,Naheed,Bakery,Sandwich Bread,Dawn,800 g,202
+11/1/2025,Metro,Bakery,Plain Cake,English Cake,400 g,326
+11/1/2025,Imtiaz,Bakery,Plain Cake,English Cake,400 g,336
+11/1/2025,Carrefour,Bakery,Plain Cake,English Cake,400 g,346
+11/1/2025,Chase Up,Bakery,Plain Cake,English Cake,400 g,349
+11/1/2025,Naheed,Bakery,Plain Cake,English Cake,400 g,359
+11/1/2025,Metro,Bakery,Chocolate Cake,English Cake,400 g,367
+11/1/2025,Imtiaz,Bakery,Chocolate Cake,English Cake,400 g,378
+11/1/2025,Carrefour,Bakery,Chocolate Cake,English Cake,400 g,389
+11/1/2025,Chase Up,Bakery,Chocolate Cake,English Cake,400 g,393
+11/1/2025,Naheed,Bakery,Chocolate Cake,English Cake,400 g,404
+11/1/2025,Metro,Bakery,Rusks,Bisconni,1 kg,428
+11/1/2025,Imtiaz,Bakery,Rusks,Bisconni,1 kg,441
+11/1/2025,Carrefour,Bakery,Rusks,Bisconni,1 kg,454
+11/1/2025,Chase Up,Bakery,Rusks,Bisconni,1 kg,458
+11/1/2025,Naheed,Bakery,Rusks,Bisconni,1 kg,471
+11/1/2025,Metro,Bakery,Croissants,Bake Parlor,4 pcs,306
+11/1/2025,Imtiaz,Bakery,Croissants,Bake Parlor,4 pcs,315
+11/1/2025,Carrefour,Bakery,Croissants,Bake Parlor,4 pcs,324
+11/1/2025,Chase Up,Bakery,Croissants,Bake Parlor,4 pcs,327
+11/1/2025,Naheed,Bakery,Croissants,Bake Parlor,4 pcs,337
+11/1/2025,Metro,Bakery,Cup Cakes,Bake Parlor,6 pcs,286
+11/1/2025,Imtiaz,Bakery,Cup Cakes,Bake Parlor,6 pcs,294
+11/1/2025,Carrefour,Bakery,Cup Cakes,Bake Parlor,6 pcs,303
+11/1/2025,Chase Up,Bakery,Cup Cakes,Bake Parlor,6 pcs,306
+11/1/2025,Naheed,Bakery,Cup Cakes,Bake Parlor,6 pcs,314
+11/1/2025,Metro,Bakery,Pizza Base,Dawn,2 pcs,245
+11/1/2025,Imtiaz,Bakery,Pizza Base,Dawn,2 pcs,252
+11/1/2025,Carrefour,Bakery,Pizza Base,Dawn,2 pcs,259
+11/1/2025,Chase Up,Bakery,Pizza Base,Dawn,2 pcs,262
+11/1/2025,Naheed,Bakery,Pizza Base,Dawn,2 pcs,269
+11/1/2025,Metro,Beverages,Pepsi,Pepsi,1.5 L,189
+11/1/2025,Imtiaz,Beverages,Pepsi,Pepsi,1.5 L,192
+11/1/2025,Carrefour,Beverages,Pepsi,Pepsi,1.5 L,194
+11/1/2025,Chase Up,Beverages,Pepsi,Pepsi,1.5 L,194
+11/1/2025,Naheed,Beverages,Pepsi,Pepsi,1.5 L,196
+11/1/2025,Metro,Beverages,Pepsi,Pepsi,500 ml,92
+11/1/2025,Imtiaz,Beverages,Pepsi,Pepsi,500 ml,94
+11/1/2025,Carrefour,Beverages,Pepsi,Pepsi,500 ml,95
+11/1/2025,Chase Up,Beverages,Pepsi,Pepsi,500 ml,95
+11/1/2025,Naheed,Beverages,Pepsi,Pepsi,500 ml,95
+11/1/2025,Metro,Beverages,Coca-Cola,Coke,1.5 L,189
+11/1/2025,Imtiaz,Beverages,Coca-Cola,Coke,1.5 L,192
+11/1/2025,Carrefour,Beverages,Coca-Cola,Coke,1.5 L,194
+11/1/2025,Chase Up,Beverages,Coca-Cola,Coke,1.5 L,194
+11/1/2025,Naheed,Beverages,Coca-Cola,Coke,1.5 L,196
+11/1/2025,Metro,Beverages,7Up,7Up,1.5 L,189
+11/1/2025,Imtiaz,Beverages,7Up,7Up,1.5 L,192
+11/1/2025,Carrefour,Beverages,7Up,7Up,1.5 L,194
+11/1/2025,Chase Up,Beverages,7Up,7Up,1.5 L,194
+11/1/2025,Naheed,Beverages,7Up,7Up,1.5 L,196
+11/1/2025,Metro,Beverages,Sprite,Sprite,1.5 L,189
+11/1/2025,Imtiaz,Beverages,Sprite,Sprite,1.5 L,192
+11/1/2025,Carrefour,Beverages,Sprite,Sprite,1.5 L,194
+11/1/2025,Chase Up,Beverages,Sprite,Sprite,1.5 L,194
+11/1/2025,Naheed,Beverages,Sprite,Sprite,1.5 L,196
+11/1/2025,Metro,Beverages,Sting,Sting,500 ml,122
+11/1/2025,Imtiaz,Beverages,Sting,Sting,500 ml,125
+11/1/2025,Carrefour,Beverages,Sting,Sting,500 ml,126
+11/1/2025,Chase Up,Beverages,Sting,Sting,500 ml,126
+11/1/2025,Naheed,Beverages,Sting,Sting,500 ml,127
+11/1/2025,Metro,Beverages,Mountain Dew,MD,500 ml,122
+11/1/2025,Imtiaz,Beverages,Mountain Dew,MD,500 ml,125
+11/1/2025,Carrefour,Beverages,Mountain Dew,MD,500 ml,126
+11/1/2025,Chase Up,Beverages,Mountain Dew,MD,500 ml,126
+11/1/2025,Naheed,Beverages,Mountain Dew,MD,500 ml,127
+11/1/2025,Metro,Beverages,Mineral Water,Nestle,1.5 L,92
+11/1/2025,Imtiaz,Beverages,Mineral Water,Nestle,1.5 L,94
+11/1/2025,Carrefour,Beverages,Mineral Water,Nestle,1.5 L,95
+11/1/2025,Chase Up,Beverages,Mineral Water,Nestle,1.5 L,95
+11/1/2025,Naheed,Beverages,Mineral Water,Nestle,1.5 L,95
+11/1/2025,Metro,Beverages,Juice,Nestle,1 L,286
+11/1/2025,Imtiaz,Beverages,Juice,Nestle,1 L,291
+11/1/2025,Carrefour,Beverages,Juice,Nestle,1 L,294
+11/1/2025,Chase Up,Beverages,Juice,Nestle,1 L,294
+11/1/2025,Naheed,Beverages,Juice,Nestle,1 L,297
+11/1/2025,Metro,Beverages,Iced Tea,Lipton,500 ml,173
+11/1/2025,Imtiaz,Beverages,Iced Tea,Lipton,500 ml,177
+11/1/2025,Carrefour,Beverages,Iced Tea,Lipton,500 ml,179
+11/1/2025,Chase Up,Beverages,Iced Tea,Lipton,500 ml,179
+11/1/2025,Naheed,Beverages,Iced Tea,Lipton,500 ml,180
+11/1/2025,Metro,Packaged,Tea,Tapal Danedar,950 g,1530
+11/1/2025,Imtiaz,Packaged,Tea,Tapal Danedar,950 g,1576
+11/1/2025,Carrefour,Packaged,Tea,Tapal Danedar,950 g,1622
+11/1/2025,Chase Up,Packaged,Tea,Tapal Danedar,950 g,1637
+11/1/2025,Naheed,Packaged,Tea,Tapal Danedar,950 g,1683
+11/1/2025,Metro,Packaged,Tea,Tapal Danedar,475 g,796
+11/1/2025,Imtiaz,Packaged,Tea,Tapal Danedar,475 g,819
+11/1/2025,Carrefour,Packaged,Tea,Tapal Danedar,475 g,843
+11/1/2025,Chase Up,Packaged,Tea,Tapal Danedar,475 g,851
+11/1/2025,Naheed,Packaged,Tea,Tapal Danedar,475 g,875
+11/1/2025,Metro,Packaged,Coffee,Nescafe,200 g,938
+11/1/2025,Imtiaz,Packaged,Coffee,Nescafe,200 g,967
+11/1/2025,Carrefour,Packaged,Coffee,Nescafe,200 g,995
+11/1/2025,Chase Up,Packaged,Coffee,Nescafe,200 g,1004
+11/1/2025,Naheed,Packaged,Coffee,Nescafe,200 g,1032
+11/1/2025,Metro,Packaged,Biscuits,LU Sooper,Half Roll,245
+11/1/2025,Imtiaz,Packaged,Biscuits,LU Sooper,Half Roll,252
+11/1/2025,Carrefour,Packaged,Biscuits,LU Sooper,Half Roll,259
+11/1/2025,Chase Up,Packaged,Biscuits,LU Sooper,Half Roll,262
+11/1/2025,Naheed,Packaged,Biscuits,LU Sooper,Half Roll,269
+11/1/2025,Metro,Packaged,Chocolates,Dairy Milk,90 g,286
+11/1/2025,Imtiaz,Packaged,Chocolates,Dairy Milk,90 g,294
+11/1/2025,Carrefour,Packaged,Chocolates,Dairy Milk,90 g,303
+11/1/2025,Chase Up,Packaged,Chocolates,Dairy Milk,90 g,306
+11/1/2025,Naheed,Packaged,Chocolates,Dairy Milk,90 g,314
+11/1/2025,Metro,Packaged,Chips,Lays,Large,184
+11/1/2025,Imtiaz,Packaged,Chips,Lays,Large,189
+11/1/2025,Carrefour,Packaged,Chips,Lays,Large,195
+11/1/2025,Chase Up,Packaged,Chips,Lays,Large,196
+11/1/2025,Naheed,Packaged,Chips,Lays,Large,202
+11/1/2025,Metro,Packaged,Ketchup,National,800 g,428
+11/1/2025,Imtiaz,Packaged,Ketchup,National,800 g,441
+11/1/2025,Carrefour,Packaged,Ketchup,National,800 g,454
+11/1/2025,Chase Up,Packaged,Ketchup,National,800 g,458
+11/1/2025,Naheed,Packaged,Ketchup,National,800 g,471
+11/1/2025,Metro,Packaged,Mayonnaise,Young's,500 g,357
+11/1/2025,Imtiaz,Packaged,Mayonnaise,Young's,500 g,368
+11/1/2025,Carrefour,Packaged,Mayonnaise,Young's,500 g,378
+11/1/2025,Chase Up,Packaged,Mayonnaise,Young's,500 g,382
+11/1/2025,Naheed,Packaged,Mayonnaise,Young's,500 g,393
+11/1/2025,Metro,Packaged,Jam,Mitchell's,450 g,316
+11/1/2025,Imtiaz,Packaged,Jam,Mitchell's,450 g,326
+11/1/2025,Carrefour,Packaged,Jam,Mitchell's,450 g,335
+11/1/2025,Chase Up,Packaged,Jam,Mitchell's,450 g,338
+11/1/2025,Naheed,Packaged,Jam,Mitchell's,450 g,348
+11/1/2025,Metro,Packaged,Breakfast Cereal,Kellogg's,500 g,694
+11/1/2025,Imtiaz,Packaged,Breakfast Cereal,Kellogg's,500 g,714
+11/1/2025,Carrefour,Packaged,Breakfast Cereal,Kellogg's,500 g,735
+11/1/2025,Chase Up,Packaged,Breakfast Cereal,Kellogg's,500 g,742
+11/1/2025,Naheed,Packaged,Breakfast Cereal,Kellogg's,500 g,763
+11/1/2025,Metro,Household,Washing Powder,Ariel,1 kg,428
+11/1/2025,Imtiaz,Household,Washing Powder,Ariel,1 kg,446
+11/1/2025,Carrefour,Household,Washing Powder,Ariel,1 kg,458
+11/1/2025,Chase Up,Household,Washing Powder,Ariel,1 kg,463
+11/1/2025,Naheed,Household,Washing Powder,Ariel,1 kg,480
+11/1/2025,Metro,Household,Liquid Detergent,Surf Excel,1 L,469
+11/1/2025,Imtiaz,Household,Liquid Detergent,Surf Excel,1 L,488
+11/1/2025,Carrefour,Household,Liquid Detergent,Surf Excel,1 L,502
+11/1/2025,Chase Up,Household,Liquid Detergent,Surf Excel,1 L,507
+11/1/2025,Naheed,Household,Liquid Detergent,Surf Excel,1 L,526
+11/1/2025,Metro,Household,Dish Wash Liquid,Vim,500 ml,194
+11/1/2025,Imtiaz,Household,Dish Wash Liquid,Vim,500 ml,202
+11/1/2025,Carrefour,Household,Dish Wash Liquid,Vim,500 ml,207
+11/1/2025,Chase Up,Household,Dish Wash Liquid,Vim,500 ml,209
+11/1/2025,Naheed,Household,Dish Wash Liquid,Vim,500 ml,217
+11/1/2025,Metro,Household,Dish Wash Bar,Vim,300 g,112
+11/1/2025,Imtiaz,Household,Dish Wash Bar,Vim,300 g,117
+11/1/2025,Carrefour,Household,Dish Wash Bar,Vim,300 g,120
+11/1/2025,Chase Up,Household,Dish Wash Bar,Vim,300 g,121
+11/1/2025,Naheed,Household,Dish Wash Bar,Vim,300 g,126
+11/1/2025,Metro,Household,Toilet Cleaner,Harpic,500 ml,214
+11/1/2025,Imtiaz,Household,Toilet Cleaner,Harpic,500 ml,223
+11/1/2025,Carrefour,Household,Toilet Cleaner,Harpic,500 ml,229
+11/1/2025,Chase Up,Household,Toilet Cleaner,Harpic,500 ml,231
+11/1/2025,Naheed,Household,Toilet Cleaner,Harpic,500 ml,240
+11/1/2025,Metro,Household,Floor Cleaner,Max,1 L,265
+11/1/2025,Imtiaz,Household,Floor Cleaner,Max,1 L,276
+11/1/2025,Carrefour,Household,Floor Cleaner,Max,1 L,284
+11/1/2025,Chase Up,Household,Floor Cleaner,Max,1 L,286
+11/1/2025,Naheed,Household,Floor Cleaner,Max,1 L,297
+11/1/2025,Metro,Household,Tissue Box,Rose Petal,200 sheets,224
+11/1/2025,Imtiaz,Household,Tissue Box,Rose Petal,200 sheets,233
+11/1/2025,Carrefour,Household,Tissue Box,Rose Petal,200 sheets,240
+11/1/2025,Chase Up,Household,Tissue Box,Rose Petal,200 sheets,242
+11/1/2025,Naheed,Household,Tissue Box,Rose Petal,200 sheets,251
+11/1/2025,Metro,Household,Kitchen Towels,Rose Petal,2 rolls,245
+11/1/2025,Imtiaz,Household,Kitchen Towels,Rose Petal,2 rolls,255
+11/1/2025,Carrefour,Household,Kitchen Towels,Rose Petal,2 rolls,262
+11/1/2025,Chase Up,Household,Kitchen Towels,Rose Petal,2 rolls,264
+11/1/2025,Naheed,Household,Kitchen Towels,Rose Petal,2 rolls,274
+11/1/2025,Metro,Household,Garbage Bags,Dalda,Medium,184
+11/1/2025,Imtiaz,Household,Garbage Bags,Dalda,Medium,191
+11/1/2025,Carrefour,Household,Garbage Bags,Dalda,Medium,196
+11/1/2025,Chase Up,Household,Garbage Bags,Dalda,Medium,198
+11/1/2025,Naheed,Household,Garbage Bags,Dalda,Medium,206
+11/1/2025,Metro,Household,Air Freshener,Axe,300 ml,367
+11/1/2025,Imtiaz,Household,Air Freshener,Axe,300 ml,382
+11/1/2025,Carrefour,Household,Air Freshener,Axe,300 ml,393
+11/1/2025,Chase Up,Household,Air Freshener,Axe,300 ml,397
+11/1/2025,Naheed,Household,Air Freshener,Axe,300 ml,411
+11/1/2025,Metro,Frozen,Frozen Chicken,K&Ns,1 kg,796
+11/1/2025,Imtiaz,Frozen,Frozen Chicken,K&Ns,1 kg,819
+11/1/2025,Carrefour,Frozen,Frozen Chicken,K&Ns,1 kg,843
+11/1/2025,Chase Up,Frozen,Frozen Chicken,K&Ns,1 kg,851
+11/1/2025,Naheed,Frozen,Frozen Chicken,K&Ns,1 kg,875
+11/1/2025,Metro,Frozen,Chicken Nuggets,K&Ns,700 g,694
+11/1/2025,Imtiaz,Frozen,Chicken Nuggets,K&Ns,700 g,714
+11/1/2025,Carrefour,Frozen,Chicken Nuggets,K&Ns,700 g,735
+11/1/2025,Chase Up,Frozen,Chicken Nuggets,K&Ns,700 g,742
+11/1/2025,Naheed,Frozen,Chicken Nuggets,K&Ns,700 g,763
+11/1/2025,Metro,Frozen,Frozen Fries,Dawn,1 kg,428
+11/1/2025,Imtiaz,Frozen,Frozen Fries,Dawn,1 kg,441
+11/1/2025,Carrefour,Frozen,Frozen Fries,Dawn,1 kg,454
+11/1/2025,Chase Up,Frozen,Frozen Fries,Dawn,1 kg,458
+11/1/2025,Naheed,Frozen,Frozen Fries,Dawn,1 kg,471
+11/1/2025,Metro,Frozen,Frozen Paratha,Dawn,5 pcs,367
+11/1/2025,Imtiaz,Frozen,Frozen Paratha,Dawn,5 pcs,378
+11/1/2025,Carrefour,Frozen,Frozen Paratha,Dawn,5 pcs,389
+11/1/2025,Chase Up,Frozen,Frozen Paratha,Dawn,5 pcs,393
+11/1/2025,Naheed,Frozen,Frozen Paratha,Dawn,5 pcs,404
+11/1/2025,Metro,Frozen,Frozen Samosa,Sufi,600 g,388
+11/1/2025,Imtiaz,Frozen,Frozen Samosa,Sufi,600 g,399
+11/1/2025,Carrefour,Frozen,Frozen Samosa,Sufi,600 g,411
+11/1/2025,Chase Up,Frozen,Frozen Samosa,Sufi,600 g,415
+11/1/2025,Naheed,Frozen,Frozen Samosa,Sufi,600 g,426
+11/1/2025,Metro,Frozen,Beef Mince,Fresh,1 kg,938
+11/1/2025,Imtiaz,Frozen,Beef Mince,Fresh,1 kg,967
+11/1/2025,Carrefour,Frozen,Beef Mince,Fresh,1 kg,995
+11/1/2025,Chase Up,Frozen,Beef Mince,Fresh,1 kg,1004
+11/1/2025,Naheed,Frozen,Beef Mince,Fresh,1 kg,1032
+11/1/2025,Metro,Frozen,Chicken Mince,Fresh,1 kg,775
+11/1/2025,Imtiaz,Frozen,Chicken Mince,Fresh,1 kg,798
+11/1/2025,Carrefour,Frozen,Chicken Mince,Fresh,1 kg,822
+11/1/2025,Chase Up,Frozen,Chicken Mince,Fresh,1 kg,829
+11/1/2025,Naheed,Frozen,Chicken Mince,Fresh,1 kg,853
+11/1/2025,Metro,Frozen,Fish Fillets,Fresh,1 kg,1000
+11/1/2025,Imtiaz,Frozen,Fish Fillets,Fresh,1 kg,1030
+11/1/2025,Carrefour,Frozen,Fish Fillets,Fresh,1 kg,1060
+11/1/2025,Chase Up,Frozen,Fish Fillets,Fresh,1 kg,1070
+11/1/2025,Naheed,Frozen,Fish Fillets,Fresh,1 kg,1100
+11/1/2025,Metro,Frozen,Frozen Peas,Dawn,900 g,306
+11/1/2025,Imtiaz,Frozen,Frozen Peas,Dawn,900 g,315
+11/1/2025,Carrefour,Frozen,Frozen Peas,Dawn,900 g,324
+11/1/2025,Chase Up,Frozen,Frozen Peas,Dawn,900 g,327
+11/1/2025,Naheed,Frozen,Frozen Peas,Dawn,900 g,337
+11/1/2025,Metro,Frozen,Frozen Mixed Veg,Dawn,900 g,326
+11/1/2025,Imtiaz,Frozen,Frozen Mixed Veg,Dawn,900 g,336
+11/1/2025,Carrefour,Frozen,Frozen Mixed Veg,Dawn,900 g,346
+11/1/2025,Chase Up,Frozen,Frozen Mixed Veg,Dawn,900 g,349
+11/1/2025,Naheed,Frozen,Frozen Mixed Veg,Dawn,900 g,359
+12/1/2025,Metro,Staples,Basmati Rice,Falak,1 kg,312
+12/1/2025,Imtiaz,Staples,Basmati Rice,Ponam,1 kg,324
+12/1/2025,Carrefour,Staples,Basmati Rice,Falak,1 kg,334
+12/1/2025,Chase Up,Staples,Basmati Rice,Falak,1 kg,337
+12/1/2025,Naheed,Staples,Basmati Rice,Falak,1 kg,349
+12/1/2025,Metro,Staples,Super Kernel Rice,Guard,1 kg,333
+12/1/2025,Imtiaz,Staples,Super Kernel Rice,Guard,1 kg,346
+12/1/2025,Carrefour,Staples,Super Kernel Rice,Guard,1 kg,356
+12/1/2025,Chase Up,Staples,Super Kernel Rice,Guard,1 kg,359
+12/1/2025,Naheed,Staples,Super Kernel Rice,Guard,1 kg,373
+12/1/2025,Metro,Staples,IRRI Rice,Loose,1 kg,250
+12/1/2025,Imtiaz,Staples,IRRI Rice,Loose,1 kg,260
+12/1/2025,Carrefour,Staples,IRRI Rice,Loose,1 kg,267
+12/1/2025,Chase Up,Staples,IRRI Rice,Loose,1 kg,270
+12/1/2025,Naheed,Staples,IRRI Rice,Loose,1 kg,280
+12/1/2025,Metro,Staples,Brown Rice,Guard,1 kg,374
+12/1/2025,Imtiaz,Staples,Brown Rice,Guard,1 kg,389
+12/1/2025,Carrefour,Staples,Brown Rice,Guard,1 kg,401
+12/1/2025,Chase Up,Staples,Brown Rice,Guard,1 kg,404
+12/1/2025,Naheed,Staples,Brown Rice,Guard,1 kg,419
+12/1/2025,Metro,Staples,Wheat Flour,Atta,10 kg,1508
+12/1/2025,Imtiaz,Staples,Wheat Flour,Atta,10 kg,1568
+12/1/2025,Carrefour,Staples,Wheat Flour,Atta,10 kg,1614
+12/1/2025,Chase Up,Staples,Wheat Flour,Atta,10 kg,1629
+12/1/2025,Naheed,Staples,Wheat Flour,Atta,10 kg,1689
+12/1/2025,Metro,Staples,Whole Wheat Flour,Chakki,5 kg,811
+12/1/2025,Imtiaz,Staples,Whole Wheat Flour,Chakki,5 kg,844
+12/1/2025,Carrefour,Staples,Whole Wheat Flour,Chakki,5 kg,868
+12/1/2025,Chase Up,Staples,Whole Wheat Flour,Chakki,5 kg,876
+12/1/2025,Naheed,Staples,Whole Wheat Flour,Chakki,5 kg,909
+12/1/2025,Metro,Staples,Sugar,Loose,1 kg,161
+12/1/2025,Imtiaz,Staples,Sugar,Loose,1 kg,168
+12/1/2025,Carrefour,Staples,Sugar,Loose,1 kg,172
+12/1/2025,Chase Up,Staples,Sugar,Loose,1 kg,174
+12/1/2025,Naheed,Staples,Sugar,Loose,1 kg,181
+12/1/2025,Metro,Staples,Salt,National,800 g,88
+12/1/2025,Imtiaz,Staples,Salt,National,800 g,92
+12/1/2025,Carrefour,Staples,Salt,National,800 g,95
+12/1/2025,Chase Up,Staples,Salt,National,800 g,95
+12/1/2025,Naheed,Staples,Salt,National,800 g,99
+12/1/2025,Metro,Staples,Daal Chana,Loose,1 kg,406
+12/1/2025,Imtiaz,Staples,Daal Chana,Loose,1 kg,422
+12/1/2025,Carrefour,Staples,Daal Chana,Loose,1 kg,434
+12/1/2025,Chase Up,Staples,Daal Chana,Loose,1 kg,438
+12/1/2025,Naheed,Staples,Daal Chana,Loose,1 kg,454
+12/1/2025,Metro,Staples,Daal Masoor,Loose,1 kg,426
+12/1/2025,Imtiaz,Staples,Daal Masoor,Loose,1 kg,443
+12/1/2025,Carrefour,Staples,Daal Masoor,Loose,1 kg,456
+12/1/2025,Chase Up,Staples,Daal Masoor,Loose,1 kg,461
+12/1/2025,Naheed,Staples,Daal Masoor,Loose,1 kg,478
+12/1/2025,Metro,Staples,Daal Moong,Loose,1 kg,437
+12/1/2025,Imtiaz,Staples,Daal Moong,Loose,1 kg,454
+12/1/2025,Carrefour,Staples,Daal Moong,Loose,1 kg,467
+12/1/2025,Chase Up,Staples,Daal Moong,Loose,1 kg,472
+12/1/2025,Naheed,Staples,Daal Moong,Loose,1 kg,489
+12/1/2025,Metro,Staples,White Chickpeas,Loose,1 kg,395
+12/1/2025,Imtiaz,Staples,White Chickpeas,Loose,1 kg,411
+12/1/2025,Carrefour,Staples,White Chickpeas,Loose,1 kg,423
+12/1/2025,Chase Up,Staples,White Chickpeas,Loose,1 kg,427
+12/1/2025,Naheed,Staples,White Chickpeas,Loose,1 kg,443
+12/1/2025,Metro,Staples,Red Kidney Beans,Loose,1 kg,447
+12/1/2025,Imtiaz,Staples,Red Kidney Beans,Loose,1 kg,465
+12/1/2025,Carrefour,Staples,Red Kidney Beans,Loose,1 kg,479
+12/1/2025,Chase Up,Staples,Red Kidney Beans,Loose,1 kg,483
+12/1/2025,Naheed,Staples,Red Kidney Beans,Loose,1 kg,501
+12/1/2025,Metro,Staples,Corn Flour,National,300 g,146
+12/1/2025,Imtiaz,Staples,Corn Flour,National,300 g,151
+12/1/2025,Carrefour,Staples,Corn Flour,National,300 g,156
+12/1/2025,Chase Up,Staples,Corn Flour,National,300 g,157
+12/1/2025,Naheed,Staples,Corn Flour,National,300 g,163
+12/1/2025,Metro,Staples,Gram Flour,National,1 kg,270
+12/1/2025,Imtiaz,Staples,Gram Flour,National,1 kg,281
+12/1/2025,Carrefour,Staples,Gram Flour,National,1 kg,289
+12/1/2025,Chase Up,Staples,Gram Flour,National,1 kg,292
+12/1/2025,Naheed,Staples,Gram Flour,National,1 kg,303
+12/1/2025,Metro,Dairy,Milk,Olpers,1 L,281
+12/1/2025,Imtiaz,Dairy,Milk,Olpers,1 L,289
+12/1/2025,Carrefour,Dairy,Milk,Olpers,1 L,295
+12/1/2025,Chase Up,Dairy,Milk,Olpers,1 L,298
+12/1/2025,Naheed,Dairy,Milk,Olpers,1 L,303
+12/1/2025,Metro,Dairy,Milk,Nestle Milkpak,500 ml,156
+12/1/2025,Imtiaz,Dairy,Milk,Nestle Milkpak,500 ml,161
+12/1/2025,Carrefour,Dairy,Milk,Nestle Milkpak,500 ml,164
+12/1/2025,Chase Up,Dairy,Milk,Nestle Milkpak,500 ml,165
+12/1/2025,Naheed,Dairy,Milk,Nestle Milkpak,500 ml,168
+12/1/2025,Metro,Dairy,Yogurt,Nurpur,1 kg,343
+12/1/2025,Imtiaz,Dairy,Yogurt,Nurpur,1 kg,353
+12/1/2025,Carrefour,Dairy,Yogurt,Nurpur,1 kg,360
+12/1/2025,Chase Up,Dairy,Yogurt,Nurpur,1 kg,364
+12/1/2025,Naheed,Dairy,Yogurt,Nurpur,1 kg,371
+12/1/2025,Metro,Dairy,Yogurt,Olpers,500 g,187
+12/1/2025,Imtiaz,Dairy,Yogurt,Olpers,500 g,193
+12/1/2025,Carrefour,Dairy,Yogurt,Olpers,500 g,197
+12/1/2025,Chase Up,Dairy,Yogurt,Olpers,500 g,198
+12/1/2025,Naheed,Dairy,Yogurt,Olpers,500 g,202
+12/1/2025,Metro,Dairy,Butter,Nurpur,200 g,322
+12/1/2025,Imtiaz,Dairy,Butter,Nurpur,200 g,332
+12/1/2025,Carrefour,Dairy,Butter,Nurpur,200 g,339
+12/1/2025,Chase Up,Dairy,Butter,Nurpur,200 g,342
+12/1/2025,Naheed,Dairy,Butter,Nurpur,200 g,348
+12/1/2025,Metro,Dairy,Cheese Slices,Dairyland,200 g,374
+12/1/2025,Imtiaz,Dairy,Cheese Slices,Dairyland,200 g,386
+12/1/2025,Carrefour,Dairy,Cheese Slices,Dairyland,200 g,393
+12/1/2025,Chase Up,Dairy,Cheese Slices,Dairyland,200 g,397
+12/1/2025,Naheed,Dairy,Cheese Slices,Dairyland,200 g,404
+12/1/2025,Metro,Dairy,Cheese Block,Adam's,200 g,395
+12/1/2025,Imtiaz,Dairy,Cheese Block,Adam's,200 g,407
+12/1/2025,Carrefour,Dairy,Cheese Block,Adam's,200 g,415
+12/1/2025,Chase Up,Dairy,Cheese Block,Adam's,200 g,419
+12/1/2025,Naheed,Dairy,Cheese Block,Adam's,200 g,427
+12/1/2025,Metro,Dairy,Cream,Olpers,200 ml,166
+12/1/2025,Imtiaz,Dairy,Cream,Olpers,200 ml,171
+12/1/2025,Carrefour,Dairy,Cream,Olpers,200 ml,175
+12/1/2025,Chase Up,Dairy,Cream,Olpers,200 ml,176
+12/1/2025,Naheed,Dairy,Cream,Olpers,200 ml,180
+12/1/2025,Metro,Dairy,Flavored Milk,Nestle,250 ml,94
+12/1/2025,Imtiaz,Dairy,Flavored Milk,Nestle,250 ml,96
+12/1/2025,Carrefour,Dairy,Flavored Milk,Nestle,250 ml,98
+12/1/2025,Chase Up,Dairy,Flavored Milk,Nestle,250 ml,99
+12/1/2025,Naheed,Dairy,Flavored Milk,Nestle,250 ml,101
+12/1/2025,Metro,Dairy,Eggs,Farm Eggs,12 pcs,416
+12/1/2025,Imtiaz,Dairy,Eggs,Farm Eggs,12 pcs,428
+12/1/2025,Carrefour,Dairy,Eggs,Farm Eggs,12 pcs,437
+12/1/2025,Chase Up,Dairy,Eggs,Farm Eggs,12 pcs,441
+12/1/2025,Naheed,Dairy,Eggs,Farm Eggs,12 pcs,449
+12/1/2025,Metro,Bakery,White Bread,Dawn,800 g,172
+12/1/2025,Imtiaz,Bakery,White Bread,Dawn,800 g,177
+12/1/2025,Carrefour,Bakery,White Bread,Dawn,800 g,182
+12/1/2025,Chase Up,Bakery,White Bread,Dawn,800 g,184
+12/1/2025,Naheed,Bakery,White Bread,Dawn,800 g,189
+12/1/2025,Metro,Bakery,Brown Bread,Dawn,800 g,182
+12/1/2025,Imtiaz,Bakery,Brown Bread,Dawn,800 g,187
+12/1/2025,Carrefour,Bakery,Brown Bread,Dawn,800 g,193
+12/1/2025,Chase Up,Bakery,Brown Bread,Dawn,800 g,195
+12/1/2025,Naheed,Bakery,Brown Bread,Dawn,800 g,200
+12/1/2025,Metro,Bakery,Burger Buns,Dawn,6 pcs,166
+12/1/2025,Imtiaz,Bakery,Burger Buns,Dawn,6 pcs,171
+12/1/2025,Carrefour,Bakery,Burger Buns,Dawn,6 pcs,176
+12/1/2025,Chase Up,Bakery,Burger Buns,Dawn,6 pcs,178
+12/1/2025,Naheed,Bakery,Burger Buns,Dawn,6 pcs,183
+12/1/2025,Metro,Bakery,Sandwich Bread,Dawn,800 g,187
+12/1/2025,Imtiaz,Bakery,Sandwich Bread,Dawn,800 g,193
+12/1/2025,Carrefour,Bakery,Sandwich Bread,Dawn,800 g,198
+12/1/2025,Chase Up,Bakery,Sandwich Bread,Dawn,800 g,200
+12/1/2025,Naheed,Bakery,Sandwich Bread,Dawn,800 g,206
+12/1/2025,Metro,Bakery,Plain Cake,English Cake,400 g,333
+12/1/2025,Imtiaz,Bakery,Plain Cake,English Cake,400 g,343
+12/1/2025,Carrefour,Bakery,Plain Cake,English Cake,400 g,353
+12/1/2025,Chase Up,Bakery,Plain Cake,English Cake,400 g,356
+12/1/2025,Naheed,Bakery,Plain Cake,English Cake,400 g,366
+12/1/2025,Metro,Bakery,Chocolate Cake,English Cake,400 g,374
+12/1/2025,Imtiaz,Bakery,Chocolate Cake,English Cake,400 g,386
+12/1/2025,Carrefour,Bakery,Chocolate Cake,English Cake,400 g,397
+12/1/2025,Chase Up,Bakery,Chocolate Cake,English Cake,400 g,401
+12/1/2025,Naheed,Bakery,Chocolate Cake,English Cake,400 g,412
+12/1/2025,Metro,Bakery,Rusks,Bisconni,1 kg,437
+12/1/2025,Imtiaz,Bakery,Rusks,Bisconni,1 kg,450
+12/1/2025,Carrefour,Bakery,Rusks,Bisconni,1 kg,463
+12/1/2025,Chase Up,Bakery,Rusks,Bisconni,1 kg,467
+12/1/2025,Naheed,Bakery,Rusks,Bisconni,1 kg,480
+12/1/2025,Metro,Bakery,Croissants,Bake Parlor,4 pcs,312
+12/1/2025,Imtiaz,Bakery,Croissants,Bake Parlor,4 pcs,321
+12/1/2025,Carrefour,Bakery,Croissants,Bake Parlor,4 pcs,331
+12/1/2025,Chase Up,Bakery,Croissants,Bake Parlor,4 pcs,334
+12/1/2025,Naheed,Bakery,Croissants,Bake Parlor,4 pcs,343
+12/1/2025,Metro,Bakery,Cup Cakes,Bake Parlor,6 pcs,291
+12/1/2025,Imtiaz,Bakery,Cup Cakes,Bake Parlor,6 pcs,300
+12/1/2025,Carrefour,Bakery,Cup Cakes,Bake Parlor,6 pcs,309
+12/1/2025,Chase Up,Bakery,Cup Cakes,Bake Parlor,6 pcs,312
+12/1/2025,Naheed,Bakery,Cup Cakes,Bake Parlor,6 pcs,320
+12/1/2025,Metro,Bakery,Pizza Base,Dawn,2 pcs,250
+12/1/2025,Imtiaz,Bakery,Pizza Base,Dawn,2 pcs,257
+12/1/2025,Carrefour,Bakery,Pizza Base,Dawn,2 pcs,265
+12/1/2025,Chase Up,Bakery,Pizza Base,Dawn,2 pcs,267
+12/1/2025,Naheed,Bakery,Pizza Base,Dawn,2 pcs,275
+12/1/2025,Metro,Beverages,Pepsi,Pepsi,1.5 L,192
+12/1/2025,Imtiaz,Beverages,Pepsi,Pepsi,1.5 L,196
+12/1/2025,Carrefour,Beverages,Pepsi,Pepsi,1.5 L,198
+12/1/2025,Chase Up,Beverages,Pepsi,Pepsi,1.5 L,198
+12/1/2025,Naheed,Beverages,Pepsi,Pepsi,1.5 L,200
+12/1/2025,Metro,Beverages,Pepsi,Pepsi,500 ml,94
+12/1/2025,Imtiaz,Beverages,Pepsi,Pepsi,500 ml,95
+12/1/2025,Carrefour,Beverages,Pepsi,Pepsi,500 ml,96
+12/1/2025,Chase Up,Beverages,Pepsi,Pepsi,500 ml,96
+12/1/2025,Naheed,Beverages,Pepsi,Pepsi,500 ml,97
+12/1/2025,Metro,Beverages,Coca-Cola,Coke,1.5 L,192
+12/1/2025,Imtiaz,Beverages,Coca-Cola,Coke,1.5 L,196
+12/1/2025,Carrefour,Beverages,Coca-Cola,Coke,1.5 L,198
+12/1/2025,Chase Up,Beverages,Coca-Cola,Coke,1.5 L,198
+12/1/2025,Naheed,Beverages,Coca-Cola,Coke,1.5 L,200
+12/1/2025,Metro,Beverages,7Up,7Up,1.5 L,192
+12/1/2025,Imtiaz,Beverages,7Up,7Up,1.5 L,196
+12/1/2025,Carrefour,Beverages,7Up,7Up,1.5 L,198
+12/1/2025,Chase Up,Beverages,7Up,7Up,1.5 L,198
+12/1/2025,Naheed,Beverages,7Up,7Up,1.5 L,200
+12/1/2025,Metro,Beverages,Sprite,Sprite,1.5 L,192
+12/1/2025,Imtiaz,Beverages,Sprite,Sprite,1.5 L,196
+12/1/2025,Carrefour,Beverages,Sprite,Sprite,1.5 L,198
+12/1/2025,Chase Up,Beverages,Sprite,Sprite,1.5 L,198
+12/1/2025,Naheed,Beverages,Sprite,Sprite,1.5 L,200
+12/1/2025,Metro,Beverages,Sting,Sting,500 ml,125
+12/1/2025,Imtiaz,Beverages,Sting,Sting,500 ml,127
+12/1/2025,Carrefour,Beverages,Sting,Sting,500 ml,129
+12/1/2025,Chase Up,Beverages,Sting,Sting,500 ml,129
+12/1/2025,Naheed,Beverages,Sting,Sting,500 ml,130
+12/1/2025,Metro,Beverages,Mountain Dew,MD,500 ml,125
+12/1/2025,Imtiaz,Beverages,Mountain Dew,MD,500 ml,127
+12/1/2025,Carrefour,Beverages,Mountain Dew,MD,500 ml,129
+12/1/2025,Chase Up,Beverages,Mountain Dew,MD,500 ml,129
+12/1/2025,Naheed,Beverages,Mountain Dew,MD,500 ml,130
+12/1/2025,Metro,Beverages,Mineral Water,Nestle,1.5 L,94
+12/1/2025,Imtiaz,Beverages,Mineral Water,Nestle,1.5 L,95
+12/1/2025,Carrefour,Beverages,Mineral Water,Nestle,1.5 L,96
+12/1/2025,Chase Up,Beverages,Mineral Water,Nestle,1.5 L,96
+12/1/2025,Naheed,Beverages,Mineral Water,Nestle,1.5 L,97
+12/1/2025,Metro,Beverages,Juice,Nestle,1 L,291
+12/1/2025,Imtiaz,Beverages,Juice,Nestle,1 L,297
+12/1/2025,Carrefour,Beverages,Juice,Nestle,1 L,300
+12/1/2025,Chase Up,Beverages,Juice,Nestle,1 L,300
+12/1/2025,Naheed,Beverages,Juice,Nestle,1 L,303
+12/1/2025,Metro,Beverages,Iced Tea,Lipton,500 ml,177
+12/1/2025,Imtiaz,Beverages,Iced Tea,Lipton,500 ml,180
+12/1/2025,Carrefour,Beverages,Iced Tea,Lipton,500 ml,182
+12/1/2025,Chase Up,Beverages,Iced Tea,Lipton,500 ml,182
+12/1/2025,Naheed,Beverages,Iced Tea,Lipton,500 ml,184
+12/1/2025,Metro,Packaged,Tea,Tapal Danedar,950 g,1560
+12/1/2025,Imtiaz,Packaged,Tea,Tapal Danedar,950 g,1607
+12/1/2025,Carrefour,Packaged,Tea,Tapal Danedar,950 g,1654
+12/1/2025,Chase Up,Packaged,Tea,Tapal Danedar,950 g,1669
+12/1/2025,Naheed,Packaged,Tea,Tapal Danedar,950 g,1716
+12/1/2025,Metro,Packaged,Tea,Tapal Danedar,475 g,811
+12/1/2025,Imtiaz,Packaged,Tea,Tapal Danedar,475 g,836
+12/1/2025,Carrefour,Packaged,Tea,Tapal Danedar,475 g,860
+12/1/2025,Chase Up,Packaged,Tea,Tapal Danedar,475 g,868
+12/1/2025,Naheed,Packaged,Tea,Tapal Danedar,475 g,892
+12/1/2025,Metro,Packaged,Coffee,Nescafe,200 g,957
+12/1/2025,Imtiaz,Packaged,Coffee,Nescafe,200 g,986
+12/1/2025,Carrefour,Packaged,Coffee,Nescafe,200 g,1014
+12/1/2025,Chase Up,Packaged,Coffee,Nescafe,200 g,1024
+12/1/2025,Naheed,Packaged,Coffee,Nescafe,200 g,1052
+12/1/2025,Metro,Packaged,Biscuits,LU Sooper,Half Roll,250
+12/1/2025,Imtiaz,Packaged,Biscuits,LU Sooper,Half Roll,257
+12/1/2025,Carrefour,Packaged,Biscuits,LU Sooper,Half Roll,265
+12/1/2025,Chase Up,Packaged,Biscuits,LU Sooper,Half Roll,267
+12/1/2025,Naheed,Packaged,Biscuits,LU Sooper,Half Roll,275
+12/1/2025,Metro,Packaged,Chocolates,Dairy Milk,90 g,291
+12/1/2025,Imtiaz,Packaged,Chocolates,Dairy Milk,90 g,300
+12/1/2025,Carrefour,Packaged,Chocolates,Dairy Milk,90 g,309
+12/1/2025,Chase Up,Packaged,Chocolates,Dairy Milk,90 g,312
+12/1/2025,Naheed,Packaged,Chocolates,Dairy Milk,90 g,320
+12/1/2025,Metro,Packaged,Chips,Lays,Large,187
+12/1/2025,Imtiaz,Packaged,Chips,Lays,Large,193
+12/1/2025,Carrefour,Packaged,Chips,Lays,Large,198
+12/1/2025,Chase Up,Packaged,Chips,Lays,Large,200
+12/1/2025,Naheed,Packaged,Chips,Lays,Large,206
+12/1/2025,Metro,Packaged,Ketchup,National,800 g,437
+12/1/2025,Imtiaz,Packaged,Ketchup,National,800 g,450
+12/1/2025,Carrefour,Packaged,Ketchup,National,800 g,463
+12/1/2025,Chase Up,Packaged,Ketchup,National,800 g,467
+12/1/2025,Naheed,Packaged,Ketchup,National,800 g,480
+12/1/2025,Metro,Packaged,Mayonnaise,Young's,500 g,364
+12/1/2025,Imtiaz,Packaged,Mayonnaise,Young's,500 g,375
+12/1/2025,Carrefour,Packaged,Mayonnaise,Young's,500 g,386
+12/1/2025,Chase Up,Packaged,Mayonnaise,Young's,500 g,389
+12/1/2025,Naheed,Packaged,Mayonnaise,Young's,500 g,400
+12/1/2025,Metro,Packaged,Jam,Mitchell's,450 g,322
+12/1/2025,Imtiaz,Packaged,Jam,Mitchell's,450 g,332
+12/1/2025,Carrefour,Packaged,Jam,Mitchell's,450 g,342
+12/1/2025,Chase Up,Packaged,Jam,Mitchell's,450 g,345
+12/1/2025,Naheed,Packaged,Jam,Mitchell's,450 g,355
+12/1/2025,Metro,Packaged,Breakfast Cereal,Kellogg's,500 g,707
+12/1/2025,Imtiaz,Packaged,Breakfast Cereal,Kellogg's,500 g,728
+12/1/2025,Carrefour,Packaged,Breakfast Cereal,Kellogg's,500 g,750
+12/1/2025,Chase Up,Packaged,Breakfast Cereal,Kellogg's,500 g,757
+12/1/2025,Naheed,Packaged,Breakfast Cereal,Kellogg's,500 g,778
+12/1/2025,Metro,Household,Washing Powder,Ariel,1 kg,437
+12/1/2025,Imtiaz,Household,Washing Powder,Ariel,1 kg,454
+12/1/2025,Carrefour,Household,Washing Powder,Ariel,1 kg,467
+12/1/2025,Chase Up,Household,Washing Powder,Ariel,1 kg,472
+12/1/2025,Naheed,Household,Washing Powder,Ariel,1 kg,489
+12/1/2025,Metro,Household,Liquid Detergent,Surf Excel,1 L,478
+12/1/2025,Imtiaz,Household,Liquid Detergent,Surf Excel,1 L,498
+12/1/2025,Carrefour,Household,Liquid Detergent,Surf Excel,1 L,512
+12/1/2025,Chase Up,Household,Liquid Detergent,Surf Excel,1 L,517
+12/1/2025,Naheed,Household,Liquid Detergent,Surf Excel,1 L,536
+12/1/2025,Metro,Household,Dish Wash Liquid,Vim,500 ml,198
+12/1/2025,Imtiaz,Household,Dish Wash Liquid,Vim,500 ml,206
+12/1/2025,Carrefour,Household,Dish Wash Liquid,Vim,500 ml,211
+12/1/2025,Chase Up,Household,Dish Wash Liquid,Vim,500 ml,213
+12/1/2025,Naheed,Household,Dish Wash Liquid,Vim,500 ml,221
+12/1/2025,Metro,Household,Dish Wash Bar,Vim,300 g,114
+12/1/2025,Imtiaz,Household,Dish Wash Bar,Vim,300 g,119
+12/1/2025,Carrefour,Household,Dish Wash Bar,Vim,300 g,122
+12/1/2025,Chase Up,Household,Dish Wash Bar,Vim,300 g,124
+12/1/2025,Naheed,Household,Dish Wash Bar,Vim,300 g,128
+12/1/2025,Metro,Household,Toilet Cleaner,Harpic,500 ml,218
+12/1/2025,Imtiaz,Household,Toilet Cleaner,Harpic,500 ml,227
+12/1/2025,Carrefour,Household,Toilet Cleaner,Harpic,500 ml,234
+12/1/2025,Chase Up,Household,Toilet Cleaner,Harpic,500 ml,236
+12/1/2025,Naheed,Household,Toilet Cleaner,Harpic,500 ml,245
+12/1/2025,Metro,Household,Floor Cleaner,Max,1 L,270
+12/1/2025,Imtiaz,Household,Floor Cleaner,Max,1 L,281
+12/1/2025,Carrefour,Household,Floor Cleaner,Max,1 L,289
+12/1/2025,Chase Up,Household,Floor Cleaner,Max,1 L,292
+12/1/2025,Naheed,Household,Floor Cleaner,Max,1 L,303
+12/1/2025,Metro,Household,Tissue Box,Rose Petal,200 sheets,229
+12/1/2025,Imtiaz,Household,Tissue Box,Rose Petal,200 sheets,238
+12/1/2025,Carrefour,Household,Tissue Box,Rose Petal,200 sheets,245
+12/1/2025,Chase Up,Household,Tissue Box,Rose Petal,200 sheets,247
+12/1/2025,Naheed,Household,Tissue Box,Rose Petal,200 sheets,256
+12/1/2025,Metro,Household,Kitchen Towels,Rose Petal,2 rolls,250
+12/1/2025,Imtiaz,Household,Kitchen Towels,Rose Petal,2 rolls,260
+12/1/2025,Carrefour,Household,Kitchen Towels,Rose Petal,2 rolls,267
+12/1/2025,Chase Up,Household,Kitchen Towels,Rose Petal,2 rolls,270
+12/1/2025,Naheed,Household,Kitchen Towels,Rose Petal,2 rolls,280
+12/1/2025,Metro,Household,Garbage Bags,Dalda,Medium,187
+12/1/2025,Imtiaz,Household,Garbage Bags,Dalda,Medium,195
+12/1/2025,Carrefour,Household,Garbage Bags,Dalda,Medium,200
+12/1/2025,Chase Up,Household,Garbage Bags,Dalda,Medium,202
+12/1/2025,Naheed,Household,Garbage Bags,Dalda,Medium,210
+12/1/2025,Metro,Household,Air Freshener,Axe,300 ml,374
+12/1/2025,Imtiaz,Household,Air Freshener,Axe,300 ml,389
+12/1/2025,Carrefour,Household,Air Freshener,Axe,300 ml,401
+12/1/2025,Chase Up,Household,Air Freshener,Axe,300 ml,404
+12/1/2025,Naheed,Household,Air Freshener,Axe,300 ml,419
+12/1/2025,Metro,Frozen,Frozen Chicken,K&Ns,1 kg,811
+12/1/2025,Imtiaz,Frozen,Frozen Chicken,K&Ns,1 kg,836
+12/1/2025,Carrefour,Frozen,Frozen Chicken,K&Ns,1 kg,860
+12/1/2025,Chase Up,Frozen,Frozen Chicken,K&Ns,1 kg,868
+12/1/2025,Naheed,Frozen,Frozen Chicken,K&Ns,1 kg,892
+12/1/2025,Metro,Frozen,Chicken Nuggets,K&Ns,700 g,707
+12/1/2025,Imtiaz,Frozen,Chicken Nuggets,K&Ns,700 g,728
+12/1/2025,Carrefour,Frozen,Chicken Nuggets,K&Ns,700 g,750
+12/1/2025,Chase Up,Frozen,Chicken Nuggets,K&Ns,700 g,757
+12/1/2025,Naheed,Frozen,Chicken Nuggets,K&Ns,700 g,778
+12/1/2025,Metro,Frozen,Frozen Fries,Dawn,1 kg,437
+12/1/2025,Imtiaz,Frozen,Frozen Fries,Dawn,1 kg,450
+12/1/2025,Carrefour,Frozen,Frozen Fries,Dawn,1 kg,463
+12/1/2025,Chase Up,Frozen,Frozen Fries,Dawn,1 kg,467
+12/1/2025,Naheed,Frozen,Frozen Fries,Dawn,1 kg,480
+12/1/2025,Metro,Frozen,Frozen Paratha,Dawn,5 pcs,374
+12/1/2025,Imtiaz,Frozen,Frozen Paratha,Dawn,5 pcs,386
+12/1/2025,Carrefour,Frozen,Frozen Paratha,Dawn,5 pcs,397
+12/1/2025,Chase Up,Frozen,Frozen Paratha,Dawn,5 pcs,401
+12/1/2025,Naheed,Frozen,Frozen Paratha,Dawn,5 pcs,412
+12/1/2025,Metro,Frozen,Frozen Samosa,Sufi,600 g,395
+12/1/2025,Imtiaz,Frozen,Frozen Samosa,Sufi,600 g,407
+12/1/2025,Carrefour,Frozen,Frozen Samosa,Sufi,600 g,419
+12/1/2025,Chase Up,Frozen,Frozen Samosa,Sufi,600 g,423
+12/1/2025,Naheed,Frozen,Frozen Samosa,Sufi,600 g,435
+12/1/2025,Metro,Frozen,Beef Mince,Fresh,1 kg,957
+12/1/2025,Imtiaz,Frozen,Beef Mince,Fresh,1 kg,986
+12/1/2025,Carrefour,Frozen,Beef Mince,Fresh,1 kg,1014
+12/1/2025,Chase Up,Frozen,Beef Mince,Fresh,1 kg,1024
+12/1/2025,Naheed,Frozen,Beef Mince,Fresh,1 kg,1052
+12/1/2025,Metro,Frozen,Chicken Mince,Fresh,1 kg,790
+12/1/2025,Imtiaz,Frozen,Chicken Mince,Fresh,1 kg,814
+12/1/2025,Carrefour,Frozen,Chicken Mince,Fresh,1 kg,838
+12/1/2025,Chase Up,Frozen,Chicken Mince,Fresh,1 kg,846
+12/1/2025,Naheed,Frozen,Chicken Mince,Fresh,1 kg,869
+12/1/2025,Metro,Frozen,Fish Fillets,Fresh,1 kg,1019
+12/1/2025,Imtiaz,Frozen,Fish Fillets,Fresh,1 kg,1050
+12/1/2025,Carrefour,Frozen,Fish Fillets,Fresh,1 kg,1080
+12/1/2025,Chase Up,Frozen,Fish Fillets,Fresh,1 kg,1091
+12/1/2025,Naheed,Frozen,Fish Fillets,Fresh,1 kg,1121
+12/1/2025,Metro,Frozen,Frozen Peas,Dawn,900 g,312
+12/1/2025,Imtiaz,Frozen,Frozen Peas,Dawn,900 g,321
+12/1/2025,Carrefour,Frozen,Frozen Peas,Dawn,900 g,331
+12/1/2025,Chase Up,Frozen,Frozen Peas,Dawn,900 g,334
+12/1/2025,Naheed,Frozen,Frozen Peas,Dawn,900 g,343
+12/1/2025,Metro,Frozen,Frozen Mixed Veg,Dawn,900 g,333
+12/1/2025,Imtiaz,Frozen,Frozen Mixed Veg,Dawn,900 g,343
+12/1/2025,Carrefour,Frozen,Frozen Mixed Veg,Dawn,900 g,353
+12/1/2025,Chase Up,Frozen,Frozen Mixed Veg,Dawn,900 g,356
+12/1/2025,Naheed,Frozen,Frozen Mixed Veg,Dawn,900 g,366
